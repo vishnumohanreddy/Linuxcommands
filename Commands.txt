@@ -1,0 +1,1 @@
+ls -l ---> to find the list in -list
